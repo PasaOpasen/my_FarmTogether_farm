@@ -14,7 +14,7 @@ from os.path import isfile, join, dirname
 screen_shots_dir = join(dirname(__file__), 'screenshots')
 
 
-onlyfiles = [join(screen_shots_dir, f) for f in listdir(screen_shots_dir) if isfile(join(screen_shots_dir, f))]
+onlyfiles = [f for f in listdir(screen_shots_dir) if isfile(join(screen_shots_dir, f))]
 
 
 with open('README.md', 'r', encoding = 'utf8') as f:
