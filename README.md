@@ -25,7 +25,7 @@ git commit -m 'I did something'
 git push
 ```
 
-# Screenshoots
+# Screenshots
 
 ![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshoots/20200709204219_1.jpg)
 
