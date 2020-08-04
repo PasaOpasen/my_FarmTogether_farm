@@ -21,11 +21,11 @@ with open('README.md', 'r', encoding = 'utf8') as f:
     lines = [line for line in f if not line.startswith('!')]
 
 
-onlyfiles = [f'![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/{file})\n\n' for file in onlyfiles]
+onlyfiles = [f'![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/{file})' for file in onlyfiles]
 
 
 with open('README.md', 'w', encoding = 'utf8') as f:
-    f.writelines(lines + onlyfiles)
+    f.write('\n'.join(lines + onlyfiles)+'\n')
 
 
 
