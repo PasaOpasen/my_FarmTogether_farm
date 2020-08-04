@@ -35,3 +35,4 @@ git push
 
 ![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshoots/20200723005459_1.jpg)
 
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshoots/20200804014800_1.jpg)
