@@ -2,38 +2,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 The location to your FarmTogether farms and setting shoud be the path like **C:\Program Files (x86)\Steam\userdata\881990181\673950\remote**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -42,45 +11,10 @@ The location to your FarmTogether farms and setting shoud be the path like **C:\
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ```
-
-
-
-
-
-
-
 git clone LINK...
 
-
-
-
-
-
-
 ```
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -93,45 +27,11 @@ git clone LINK...
 
 
 
-
-
-
-
-
-
-
-
-
 ```
-
-
-
-
-
-
 
 git pull
 
-
-
-
-
-
-
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 چگونه به فشار آن را از کامپیوتر خود را به وب
@@ -141,61 +41,13 @@ git pull
 
 
 
-
-
-
-
-
-
-
-
-
 ```
-
-
-
-
-
-
 
 git add .
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 git commit -m 'I did something'
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 git push
-
-
-
-
-
 
 
 ```
