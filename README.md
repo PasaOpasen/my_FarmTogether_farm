@@ -2,7 +2,37 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 The location to your FarmTogether farms and setting shoud be the path like **C:\Program Files (x86)\Steam\userdata\881990181\673950\remote**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -12,11 +42,47 @@ The location to your FarmTogether farms and setting shoud be the path like **C:\
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ```
+
+
+
+
+
+
 
 git clone LINK...
 
+
+
+
+
+
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -24,11 +90,47 @@ git clone LINK...
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ```
+
+
+
+
+
+
 
 git pull
 
+
+
+
+
+
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36,9 +138,39 @@ git pull
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
+
+
+
+
+
+
 git add .
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -46,17 +178,43 @@ git commit -m 'I did something'
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 git push
+
+
+
+
+
+
 
 ```
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Screenshots
-
-
-
-
 
 
 
@@ -119,3 +277,66 @@ git push
 ![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200804014611_1.jpg)
 ![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200804014731_1.jpg)
 ![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200804014800_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200812235711_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813002227_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813002250_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813002255_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813002259_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813002334_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813002340_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813002411_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813003146_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813003148_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813003624_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813003628_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813013117_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813013221_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200813120326_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821003308_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821003627_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821003800_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821003819_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821003944_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821004023_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821004852_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821005042_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821005047_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821005050_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821005230_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821005237_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821005444_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821005446_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821010722_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821010733_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200821021937_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200823150205_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200823150225_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200823150231_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200824015000_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200824015008_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200825002511_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200825002526_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200826230851_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200826231745_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200826231829_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200826231839_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200826233334_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828002238_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828003721_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828003739_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828003803_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828004351_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828004510_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828004557_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828004607_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828004625_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828004628_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828011244_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828011246_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828012124_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828012430_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828013958_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828014001_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828014026_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828014643_1.jpg)
+![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200828022215_1.jpg)
