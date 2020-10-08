@@ -1,5 +1,6 @@
 # LionQueen (my FarmTogether farm)
 The location to your FarmTogether farms and setting should be the path like **C:\Program Files (x86)\Steam\userdata\881990181\673950\remote**
+
 نحوه کلون کردن مخزن
 ```
 git clone LINK...
