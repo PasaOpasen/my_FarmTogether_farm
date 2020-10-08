@@ -6,7 +6,6 @@ Created on Tue Aug  4 19:58:33 2020
 """
 
 
-import os
 from os import listdir
 from os.path import isfile, join, dirname
 
@@ -18,7 +17,7 @@ onlyfiles = [f for f in listdir(screen_shots_dir) if isfile(join(screen_shots_di
 
 
 with open('README.md', 'r', encoding = 'utf8') as f:
-    lines = [line for line in f if not line.startswith('!')]
+    lines = [line.rstrip() for line in f if not line.startswith('!') if len(line) > 1]
 
 
 onlyfiles = [f'![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/{file})' for file in onlyfiles]
