@@ -15,6 +15,12 @@ git add .
 git commit -m 'I did something'
 git push
 ```
+
+# Грустная история об этом репозитории
+
+Когда-то я увидел мемчик, суть которого в том, что намного больнее всяких расставаний и соплей зайти на сервер в майнкрафкт, который ты с другом развивал несколько лет, и увидеть от него сообщение, что больше он сюда не вернётся. Что-то очень похожее случилось с этим репозиторием...
+
+
 # Screenshots
 ![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200709132440_1.jpg)
 ![1](https://github.com/PasaOpasen/my_FarmTogether_farm/blob/master/screenshots/20200709150507_1.jpg)
